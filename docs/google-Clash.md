@@ -8,9 +8,9 @@ Chrome 浏览器搭配 Proxy SwitchyOmega 扩展使用是非常方便的，此�
 
 >1.在开始下面的教程前的请确保 Clash 客户端已经配置好，如果没有请参考：
 
-- [在 Windows 中配置 Clash 客户端]([https://webs.lanzoui.com/ClashA](https://axssr.cc/user/tutorial?os=Windows&client=Clash))
+- [在 Windows 中配置 Clash 客户端](https://axssr.cc/user/tutorial?os=Windows&client=Clash)
 
-- [在 macOS 中配置 Clash 客户端]([https://webs.lanzoui.com/ClashA](https://axssr.cc/user/tutorial?os=MacOS&client=Clash))
+- [在 macOS 中配置 Clash 客户端](https://axssr.cc/user/tutorial?os=MacOS&client=Clash)
 
 
 ---
