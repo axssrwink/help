@@ -13,6 +13,7 @@
 - 进阶使用
 
   - [仅浏览器代理](/docs/google-Clash)
+  - [开启每日邮件提醒](/docs/OpenDailyMail)
 
 - 常见问题
 
