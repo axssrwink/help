@@ -1,7 +1,7 @@
 ##  安心云文档支持中心
 
 <a href="axssr.cc">
-<img src="../img/logo.png" width="200" height="150" />
+<img src="../img/fag/main-pic.png" width="200" height="150" />
 
 </a>
 你好，欢迎使用安心云文档支持中心，我们将提供安心云服务相关教程指引及进阶教程。
