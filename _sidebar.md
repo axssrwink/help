@@ -12,7 +12,7 @@
 
 - 进阶使用
 
-  - [仅浏览器代理](/docs/ios-quan)
+  - [仅浏览器代理](/docs/google-Clash)
 
 - 常见问题
 
