@@ -13,7 +13,12 @@
 2. **严禁在任何地方公开节点信息**，包括但不限于官方QQ群、官方TG群，发现者一律删号并不退款。
 3. 严禁进行：下载BT、盗版、群发垃圾邮件、扫描、政治行为。
 
+**联系我们**
 
+  
+  <i class="fa fa-users" aria-hidden="true"></i> Telegram 交流群：[安心云交流群](https://t.me/axsstap)
+
+  <i class="fa fa-users" aria-hidden="true"></i> Telegram 公告群：[安心云公告栏](https://t.me/anxinssr)
 
 ---
 
