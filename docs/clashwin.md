@@ -73,20 +73,20 @@
 
 ## 5.clash for Windows如何更新订阅地址
 
-## 方法一
+ 方法一
 
 运行 Clash 客户端 〉 点击「配置」 〉 点击您的.yaml配置倒数第二个刷新按钮即可
 ![](../img/faq/winClash-new.png)
 
 
-## 方法二
+ 方法二
 
 按照本页教程第一步，重新添加一遍订阅地址
 
 
 ## 6.clash for Windows添加订阅地址失败
 
-!>请先通过 time.is 核对系统时间并确保与正确的时间相差小于90秒
+!>请先通过 https://time.is 核对系统时间并确保与正确的时间相差小于90秒
 
 !>请确定Clash for Windows.exe 是点击鼠标右键以“管理员身份运行”打开的
 
