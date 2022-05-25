@@ -22,4 +22,4 @@
 
 ---
 
-<center> [安心云加速](https://axssr.cc/user/) 文档存在时效性 <center>
+<center> 安心云加速 文档存在时效性 <center>
