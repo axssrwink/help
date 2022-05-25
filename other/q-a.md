@@ -6,7 +6,9 @@
 * 可能性一
 检查DNS，并修改DNS。
 修改DNS教程：
+
 [Win7教程](http://jingyan.baidu.com/article/f71d60375584591ab641d13c.html)、[Win10教程](http://jingyan.baidu.com/article/1612d50058aa86e20e1eee96.html)、[Android教程](http://jingyan.baidu.com/article/77b8dc7f9ffc1d6174eab6a6.html)、[IOS教程](http://jingyan.baidu.com/article/6525d4b155877dac7d2e9499.html)、[Mac OS教程](http://jingyan.baidu.com/article/fc07f9891f626712ffe519cf.html)
+
 DNS建议修改为223.5.5.5、223.6.6.6或8.8.8.8
 
 *  可能性二
