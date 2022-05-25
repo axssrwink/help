@@ -86,7 +86,7 @@
 
 ## 6.clash for Windows添加订阅地址失败
 
-!>请先通过 https://time.is 核对系统时间并确保与正确的时间相差小于90秒
+!>请先通过 time.is 核对系统时间并确保与正确的时间相差小于90秒
 
 !>请确定Clash for Windows.exe 是点击鼠标右键以“管理员身份运行”打开的
 
