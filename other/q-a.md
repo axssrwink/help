@@ -4,12 +4,20 @@
 
 !>如果没有大量用户反应无法连接，当你无法连接的时候肯定是你自己的问题。可根据此QA来查询问题。
 * 可能性一
-检查DNS，并修改DNS。
+检查DNS，并修改DNS。(手机数据流量无法修改DNS)
 修改DNS教程：
 
-[Win7教程](http://jingyan.baidu.com/article/f71d60375584591ab641d13c.html)、[Win10教程](http://jingyan.baidu.com/article/1612d50058aa86e20e1eee96.html)、[Android教程](http://jingyan.baidu.com/article/77b8dc7f9ffc1d6174eab6a6.html)、[IOS教程](http://jingyan.baidu.com/article/6525d4b155877dac7d2e9499.html)、[Mac OS教程](http://jingyan.baidu.com/article/fc07f9891f626712ffe519cf.html)
+[Win7教程](https://blog.csdn.net/weixin_36296444/article/details/119291298)、[Win10教程](http://jingyan.baidu.com/article/1612d50058aa86e20e1eee96.html)、[Android教程](https://blog.csdn.net/weixin_30424427/article/details/117583515)、[IOS教程](https://zhidao.baidu.com/question/1118451924412078819.html)、[Mac OS教程](https://baijiahao.baidu.com/s?id=1728543659664162316&wfr=spider&for=pc)
 
-DNS建议修改为223.5.5.5、223.6.6.6或8.8.8.8
+DNS建议修改为：
+
+阿里巴巴：223.5.5.5 和223.6.6.6
+
+腾讯:119.29.29.29 和182.254.116.116
+
+百度:180.76.76.76
+
+Google:8.8.8.8和8.8.4.4
 
 *  可能性二
 
@@ -17,25 +25,13 @@ DNS建议修改为223.5.5.5、223.6.6.6或8.8.8.8
 
 *  可能性三
 
-套餐流量超出或者套餐到期。等待下个月流量重置或者续费套餐。
+套餐流量超出或者套餐到期。请续费套餐并更新订阅地址。
 
 *  可能性四
 
-正在使用的节点出现问题，切换节点后提交工单反馈。
-
-*  可能性五
-
-产品连接密码中包含了`特殊符号`导致无法连接，请登录用户中心修改连接密码`仅支持8位及以上数字字母组合`并复制新的订阅连接导入节点
-
-*  可能性六
-
-导入节点时复制了错误的订阅连接，不同的订阅链接适用于不同的代理软件
-
-*  可能性七
-
 可能阁下当前选择的节点临时故障，请尝试切换其他节点连接(`真遇到过有人三个设备都是默认第一条线路，仅第一条线路临时故障来问我们为什么都连不上的`)
 
-## **2. Chrome 浏览器无法代理**
+*  可能性五
 
 此类通常是由于扩展程序插件导致.
 
@@ -53,7 +49,7 @@ macOS快捷键: Shift+Command+N
 如果问题得到解决，请逐个关闭 Chrome 的扩展程序，排查哪个扩展程序所致。
 
 
-## **3. 解决Mac安装软件的“已损坏，无法打开。 您应该将它移到废纸篓”问题**
+## **2. 解决Mac安装软件的“已损坏，无法打开。 您应该将它移到废纸篓”问题**
 
 一、允许“任何来源”开启
 
@@ -84,7 +80,7 @@ macOS快捷键: Shift+Command+N
 回到终端窗口按回车，输入系统密码回车即可。
 接着重新打开安装软件，就可以正常安装了。
 
-## **4. Android 系统 Google play 无法代理**
+## **3. Android 系统 Google play 无法代理**
 
 * 方法一:
 
