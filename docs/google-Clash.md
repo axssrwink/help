@@ -20,6 +20,8 @@ Chrome 浏览器搭配 Proxy SwitchyOmega 扩展使用是非常方便的，此�
 通过 [Chrome 应用商店](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif/related) 在线安装 ，  如果无法访问，也可以从 Github 直接下载安装包(自行查找)
 
 在 Chrome 地址栏输入 chrome://extensions 打开扩展程序，拖动 .crx 后缀的 SwitchyOmega 安装文件到扩展程序中按提示进行安装。
+
+
 **2. 配置 情景模式**
 
 安装完成后会在 Chrome 浏览器右上角显示扩展程序的图标，如果你不想浏览器走代理可以选择“直接连接”。
@@ -37,6 +39,7 @@ Chrome 浏览器搭配 Proxy SwitchyOmega 扩展使用是非常方便的，此�
 配置完成后请记得 “应用选项” 保存配置。
 
 完成后你可以在 SwitchyOmega 扩展程序菜单中选择刚刚配置好的SS情景模式即可仅浏览器通过代理。
+
 
 **3. 测试代理**
 
