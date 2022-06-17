@@ -1,4 +1,4 @@
 - 安心云加速
   - [首页](https://axss.ac.cn/)
-  - [用户中心](https://axssr.cc/user)
+  - [用户中心](https://axss.ac.cn/)
   - [文档中心](https://axssrwink.github.io/help/#/)
