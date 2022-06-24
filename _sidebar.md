@@ -12,6 +12,7 @@
 
 - 进阶使用
 
+  - [telegram使用方法](/docs/telegram)
   - [仅浏览器代理](/docs/google-Clash)
   - [开启每日邮件提醒](/docs/OpenDailyMail)
 
