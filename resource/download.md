@@ -9,7 +9,7 @@
 
 | 客户端名称 | 下载地址1 | 下载地址2 | 是否支持一键配置 | 价格/平台 |
 | :---: | :---: | :---: | :---: | :---: |
-| Clash for Windows | [下载地址](https://120437.lanzouw.com/winCFW) |  无 | 是 | Windows |
+| Clash for Windows | [下载地址](https://120437.lanzouw.com/iYhuc06uz0yb) |  无 | 是 | Windows |
 | ClashX | [下载地址](https://webs.lanzoui.com/ClashX) |  无 | 是 | macOS |
 | Clash for Android | [下载地址](https://webs.lanzoui.com/ClashA) |无| 是 | Android |
 | Quantumult | [下载地址](https://apps.apple.com/us/app/quantumult/id1252015438) |  无 |是 | $4.99/iOS |
