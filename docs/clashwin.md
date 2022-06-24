@@ -6,7 +6,7 @@
 **下载和安装 Clash for Windows**
 
 下载地址：
-- [Clash for Windows](https://120437.lanzouw.com/winCFW)
+- [Clash for Windows](https://120437.lanzouw.com/iYhuc06uz0yb)
 
 下载并解压Clash（建议解压到Program Files目录下，请不要解压到桌面）， 然后在 Clash for Windows.exe 处点击鼠标右键以“管理员身份运行”，请确保在 UAC 授权中允许。
 
