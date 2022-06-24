@@ -45,7 +45,7 @@ MAC：https://macos.telegram.org
 
 这样我们就完成了一次账号注册可以开始使用啦。
 
-**3. Telegram怎么设置中文 **
+**3. Telegram怎么设置中文？**
 
 Telegram的系统语言中是没有中文选项的
 
