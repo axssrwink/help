@@ -21,7 +21,7 @@ IOS：https://itunes.apple.com/app/telegram-messenger/id686449807
 
 iPhone及ipad用户在苹果商店可下载
 
-Windows：https://itunes.apple.com/app/telegram-messenger/id686449807
+Windows：https://desktop.telegram.org/
 
 MAC：https://macos.telegram.org
 
